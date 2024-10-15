@@ -39,5 +39,5 @@ body{
     border-radius: 0.6rem;
     }
     .cartao:hover .cartao__conteudo {
-        transform: rotateY('180deg');
+        transform: rotateY(180deg);
     }
