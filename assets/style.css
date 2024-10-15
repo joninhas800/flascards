@@ -38,3 +38,6 @@ body{
     margin: 0.6rem;
     border-radius: 0.6rem;
     }
+    .cartao:hover .cartao__conteudo {
+        transform: rotateY('180deg');
+    }
