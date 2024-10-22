@@ -41,7 +41,7 @@ body{
     backface-visibility: hidden;
     }
     .cartao:hover .cartao__conteudo {
-        transform: rotateY(180deg);
+        transform:rotateY(180deg);
     }
     .cartao__conteudo__pergunta , 
     .cartao__conteudo__resposta {
@@ -51,7 +51,7 @@ body{
         width: 100%;
     }
     .cartao__conteudo__resposta {
-        transform: rotateY(180deg);
+        transform:rotateY(180deg);
     }
     .cartao__conteudo p {
         margin-top: 1rem;
